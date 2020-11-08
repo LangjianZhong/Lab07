@@ -1,0 +1,45 @@
+{
+  "BadmintonPlayers": {
+    "LinDan": {
+      "Id": "1",     
+      "age": "37year",
+      "position": "ballcontrol",
+      "gender": "man",
+      "height": "178cm",
+      "weight": "70kg",
+      "nationality": "China",
+      "image": "1.jpg"
+    },
+    "LeeChongWei": {
+      "Id": "2",
+      "age": "38year",
+      "position": "'Speed fast",
+      "gender": "man",
+      "height": "172cm",
+      "weight": "60kg",
+      "nationality": "Malaysia",
+      "image": "2.jpg"
+    },
+      "KentoMomota": {
+      "Id": "3",
+      "age": "26year",
+      "position": "defensive",
+      "gender": "man",
+      "height": "178cm",
+      "weight": "65.5kg",
+      "nationality": "Japan",
+      "image": "3.jpg"
+    },
+      "KevinSanjayaSukamuljo": {
+      "Id": "4",
+      "age": "25year",
+      "position": "speed fast",
+      "gender": "man",
+      "height": "178cm",
+      "weight": "70kg",
+      "nationality": "Indonesia",
+      "image": "4.jpg"
+    }
+      
+  }
+}
